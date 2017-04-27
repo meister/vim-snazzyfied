@@ -3,9 +3,9 @@
 ## Note: Still work in progress
 ### Todo
 
-[ ] Finish implementing color scheme
-[ ] Tweak GUI colors for the scheme
-[ ] Adjust Airline theme to look better
+* [ ] Finish implementing color scheme
+* [ ] Tweak GUI colors for the scheme
+* [ ] Adjust Airline theme to look better
 
 VIM Theme to go with colorscheme used in [meister’s dotfiles](https://github.com/meister/dotfiles).
 The original idea is based on [Hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) terminal
