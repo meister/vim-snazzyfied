@@ -27,7 +27,7 @@ let g:airline_theme = 'snazzyfied'
 
 ## Ideas from
 
-* [https://github.com/tyrannicaltoucan/vim-quantum](Quantum theme) by Brandon Siders
+* [Quantum theme](https://github.com/tyrannicaltoucan/vim-quantum) by Brandon Siders
   for the Airline theme setup
 
 ## License
